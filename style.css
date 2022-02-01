@@ -1,0 +1,33 @@
+#pmv1 img{
+    width:100%;
+}
+#book1head{
+    width: 100%;
+    background-color: darkslategrey;
+    color:white;
+    display: inline-block;
+    padding-top: 10px;
+}
+#book2head{
+    width: 100%;
+    background-color: darkslategrey;
+    color:white;
+    display: inline-block;
+    padding-top: 10px;
+}
+#book3head{
+    width: 100%;
+    background-color: darkslategrey;
+    color:white;
+    display: inline-block;
+    padding-top: 10px;
+}
+#book2head i{
+    margin-left: 1000px;
+}
+#book1head i{
+    margin-left: 978px;
+}
+#book3head i{
+    margin-left: 987px;
+}
